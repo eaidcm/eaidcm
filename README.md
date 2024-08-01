@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas para o meu perfil✔🎉🎶💕
 
-<!--
-**eaidcm/eaidcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Davi C. Marinho
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 
+  
+00001096796089sp@al.educacao.sp.gov.br
+
+@eai.dcm_
+
+![](_https://media1.tenor.com/m/cdtU93iZYs4AAAAd/neymar.gif)
+https://media1.tenor.com/m/cdtU93iZYs4AAAAd/neymar.gif
