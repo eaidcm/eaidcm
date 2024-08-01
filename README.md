@@ -2,7 +2,8 @@
 
 meu nome é Davi C. Marinho
 
-- Estou estudando no [alura](https://www.alura.com.br)
+- Estou estudando no [alura](https://w
+- ww.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +13,4 @@ meu nome é Davi C. Marinho
 
 @eai.dcm_
 
-![](_https://media1.tenor.com/m/cdtU93iZYs4AAAAd/neymar.gif)
-https://media1.tenor.com/m/cdtU93iZYs4AAAAd/neymar.gif
+![](https://media.tenor.com/cdtU93iZYs4AAAAM/neymar.gif)
