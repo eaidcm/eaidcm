@@ -2,8 +2,7 @@
 
 meu nome é Davi C. Marinho
 
-- Estou estudando no [alura](https://w
-- ww.alura.com.br)
+- Estou estudando no [alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
